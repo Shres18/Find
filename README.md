@@ -11,6 +11,6 @@ Add the exe file to your PATH and the program will run in windows PowerShell
 
 # Screenshot
 
-![shot]()
+![shot](https://github.com/Shres18/Find/blob/main/pic.png)
 
 
